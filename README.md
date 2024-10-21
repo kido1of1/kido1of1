@@ -10,17 +10,13 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600" height="300">
-</p>
 
 ```bash
 $ whoami
-"Tech Enthusiast | Software Developer | Open Source Contributor"
+" $$$$$$$ | Making random stuff |  kid"
 
 $ skills --help
-🖥️ Programming: Python, JavaScript, C++
-🌐 Web: HTML, CSS, React, Node.js
-☁️ Cloud: AWS, Docker, Kubernetes
-⚙️ Tools: Git, VS Code, Linux, Bash
-🧠 Interests: AI, ML, Cybersecurity
+🖥️ Programming: Python, c++, c#
+🌐 Web: HTML, CSS,
+⚙️ Tools: Git, VS Code, vs19
+🧠 Interests: AI, Cybersecurity
