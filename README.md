@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/1ykWbD4svBNVhtU2la/giphy.gif" width="30">
-  Hello, I'm [Your Name]!
+  Hello, I'm kido!
   <img src="https://media.giphy.com/media/1ykWbD4svBNVhtU2la/giphy.gif" width="30">
 </h1>
 
